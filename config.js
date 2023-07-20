@@ -1,3 +1,3 @@
 console.log('config.js')
-console.log('version1')
-console.log('updated on gitHub')
+console.log('version alfa')
+console.log('overwrite lastly version')
